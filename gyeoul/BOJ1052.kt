@@ -12,19 +12,18 @@ class BOJ1052 {
         bw.flush()
     }
 
-    fun calc(n: Int, k: Int): Long {
+    fun calc(n: Int, k: Int): Int {
         if (n <= k) {
             return 0
         }
-        var next = n.toLong()
-        var d: Long
+        var next = n
+        var d: Int
         repeat(k - 1) {
-            d = 2
+            d = 1
             while (d < next) d *= 2
             next -= (d / 2)
-            println("$next $d")
         }
-        d = 2
+        d = 1
         while (d < next) d *= 2
         return d - next
     }
