@@ -20,13 +20,13 @@ public class BOJ1052 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken()); //물병의 수
         int K = Integer.parseInt(st.nextToken()); //한번에 옮길 수 있는 물병의 수
-        int cnt = 0; //상점에서 사야하는 물병의 최솟값
+        int result = 0; //상점에서 사야하는 물병의 최솟값
 
         if (N > K) {
             int buy = 0; //구매한 물병의 수
             while (true) {
                 int now = N + buy; //처음에 변수에 담지않고 N을 그대로 사용하니, while을 탈출하지 못함
-                cnt = 0; //초기화 필수
+                int cnt = 0; //초기화 필수
                 while(now > 0){ //기존 물병의 개수 + 상점에서 구매한 물병
                     if (now%2 != 0) { //나누어 떨어지지 않을 떄
                         cnt++;
@@ -34,13 +34,13 @@ public class BOJ1052 {
                     now /= 2;
                 }
                 if(cnt <= K) {
-                    cnt = buy;
+                    result = buy;
                     break; //누적 물병의 개수가 k보다 작을 때 while 탈출
                 }
                 buy++; //물병 카운트 증가
             } //while end
         } //if end
 
-        System.out.println(cnt); //결과 출력
+        System.out.println(result); //결과 출력
     }
 }
