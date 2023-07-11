@@ -18,6 +18,7 @@
 | GitHub |  |  | [@C0012S](https://github.com/C0012S) | [@gyeoul](https://github.com/gyeoul) | [@Jieun714](https://github.com/Jieun714) | [@ybwi0912](https://github.com/ybwi0912) |
 | Language |  |  | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) <br/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) <br/> ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
 | Day 01 <br/> (2023.07.04.화) | [BOJ 1743. 음식물 피하기](https://www.acmicpc.net/problem/1743) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ✅ | ✅ |
+| Day 02 <br/> (2023.07.06.목) | [BOJ 1052. 물병](https://www.acmicpc.net/problem/1052) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 
 <br/>
 
