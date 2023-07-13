@@ -20,7 +20,7 @@
 | Day 01 <br/> (2023.07.04.화) | [BOJ 1743. 음식물 피하기](https://www.acmicpc.net/problem/1743) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ✅ | ✅ |
 | Day 02 <br/> (2023.07.06.목) | [BOJ 1052. 물병](https://www.acmicpc.net/problem/1052) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 03 <br/> (2023.07.11.화) | [BOJ 1946. 신입 사원](https://www.acmicpc.net/problem/1946) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
-
+| Day 04 <br/> (2023.07.13.목) | [BOJ 9934. 완전 이진 트리](https://www.acmicpc.net/problem/9934) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 <br/>
 
 | 진척도 | 표기 |
