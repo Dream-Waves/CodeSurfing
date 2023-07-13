@@ -15,7 +15,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ1946_2차원배열 {
     static int T, N, max;
     static int [][] arr;
 
