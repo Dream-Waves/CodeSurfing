@@ -24,6 +24,7 @@
 | Day 05 <br/> (2023.07.18.화) | [BOJ 2688. 줄어들지 않아](https://www.acmicpc.net/problem/2688) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❌ | ✅ |
 | Day 06 <br/> (2023.07.20.목) | [BOJ 1074. Z](https://www.acmicpc.net/problem/1074) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ✅ | ✅ |
 | Day 07 <br/> (2023.07.25.화) | [BOJ 17615. 볼 모으기](https://www.acmicpc.net/problem/17615) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
+| Day 08 <br/> (2023.07.27.목) | [BOJ 1446. 지름길](https://www.acmicpc.net/problem/1446) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ☑️ | ☑️ |
 
 <br/>
 
