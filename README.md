@@ -28,6 +28,7 @@
 | Day 09 <br/> (2023.08.01.화) | [BOJ 1149. RGB거리](https://www.acmicpc.net/problem/1149) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❔ | ✅ |
 | Day 10 <br/> (2023.08.03.목) | [BOJ 1495. 기타리스트](https://www.acmicpc.net/problem/1495) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✔️ | ✅ | ✔️ | ✅ |
 | Day 11 <br/> (2023.08.08.화) | [BOJ 9465. 스티커](https://www.acmicpc.net/problem/9465) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
+| Day 12 <br/> (2023.08.10.목) | [BOJ 1932. 정수 삼각형](https://www.acmicpc.net/problem/1932) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 
 <br/>
 
