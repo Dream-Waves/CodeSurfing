@@ -30,6 +30,7 @@
 | Day 11 <br/> (2023.08.08.화) | [BOJ 9465. 스티커](https://www.acmicpc.net/problem/9465) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 12 <br/> (2023.08.10.목) | [BOJ 1932. 정수 삼각형](https://www.acmicpc.net/problem/1932) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 13 <br/> (2023.08.15.화) | [BOJ 1012. 유기농 배추](https://www.acmicpc.net/problem/1012) | ![Silver2](https://static.solved.ac/tier_small/9.svg) | ✅ | ✅ | ✅ | ✅ |
+| Day 14 <br/> (2023.08.17.목) | [BOJ 2343. 기타 레슨](https://www.acmicpc.net/problem/2343) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 
 <br/>
 
