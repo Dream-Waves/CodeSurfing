@@ -31,6 +31,7 @@
 | Day 12 <br/> (2023.08.10.목) | [BOJ 1932. 정수 삼각형](https://www.acmicpc.net/problem/1932) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 13 <br/> (2023.08.15.화) | [BOJ 1012. 유기농 배추](https://www.acmicpc.net/problem/1012) | ![Silver2](https://static.solved.ac/tier_small/9.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 14 <br/> (2023.08.17.목) | [BOJ 2343. 기타 레슨](https://www.acmicpc.net/problem/2343) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
+| Day 15 <br/> (2023.08.23.화) | [BOJ 20055. 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❔ | ✅ | ✅ |
 
 <br/>
 
