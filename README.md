@@ -35,6 +35,7 @@
 | Day 16 <br/> (2023.08.24.목) | [BOJ 11403. 경로 찾기](https://www.acmicpc.net/problem/11403) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 17 <br/> (2023.08.29.화) | [BOJ 15903. 카드 합체 놀이](https://www.acmicpc.net/problem/15903) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 18 <br/> (2023.08.31.목) | [BOJ 1992. 쿼드트리](https://www.acmicpc.net/problem/1992) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❔ | ✅ |
+| Day 19 <br/> (2023.09.05.화) | [PRO 155651. 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 2️⃣ | ☑️ | ✅ | ✅ | ✅ |
 
 <br/>
 
