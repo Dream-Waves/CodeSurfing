@@ -75,7 +75,7 @@ public class BOJ15900 {
 
     public static void moveNode(int index, int parent, int count) { // 게임말을 이동하는 함수  // moveNode(
         if (tree[index].size() == 1 && tree[index].get(0) == parent) { // 연결된 노드가 하나만 있고, 연결된 노드가 부모 노드일 경우
-            moveNum += count; // 루트 노드이므로 전체 게임말의 이동 횟수에 현재 게임말의 이동 횟수를 더한다.
+            moveNum += count; // 말단 노드이므로 전체 게임말의 이동 횟수에 현재 게임말의 이동 횟수를 더한다.
             return;
         }
 
