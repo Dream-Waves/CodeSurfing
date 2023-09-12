@@ -36,8 +36,8 @@
 | Day 17 <br/> (2023.08.29.화) | [BOJ 15903. 카드 합체 놀이](https://www.acmicpc.net/problem/15903) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 18 <br/> (2023.08.31.목) | [BOJ 1992. 쿼드트리](https://www.acmicpc.net/problem/1992) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❔ | ✅ |
 | Day 19 <br/> (2023.09.05.화) | [PRO 155651. 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 2️⃣ | ☑️ | ✅ | ✅ | ✅ |
-| Day 20 <br/> (2023.09.07.목) | [BOJ 15900. 나무 탈출](https://www.acmicpc.net/problem/15900) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ✅ | ✅ |
-
+| Day 20 <br/> (2023.09.07.목) | [BOJ 15900. 나무 탈출](https://www.acmicpc.net/problem/15900) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✔️ | ✅ | ✅ |
+| Day 21 <br/> (2023.09.12.화) | [BOJ 3184. 양](https://www.acmicpc.net/problem/3184) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
 
 <br/>
 
