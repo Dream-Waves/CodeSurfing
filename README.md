@@ -39,7 +39,7 @@
 | Day 20 <br/> (2023.09.07.목) | [BOJ 15900. 나무 탈출](https://www.acmicpc.net/problem/15900) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✔️ | ✅ | ✅ |
 | Day 21 <br/> (2023.09.12.화) | [BOJ 3184. 양](https://www.acmicpc.net/problem/3184) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✔️ | ✅ | ✔️ | ✅ |
 | Day 22 <br/> (2023.09.14.목) | [BOJ 11729. 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | ✅ |
-| Day 23 <br/> (2023.09.19.화) | [PRO 148653. 마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 2️⃣ | ✅ | ✅ | ❔ | ✅ |
+| Day 23 <br/> (2023.09.19.화) | [PRO 148653. 마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 2️⃣ | ✅ | ✅ | ✔️ | ✅ |
 
 <br/>
 
