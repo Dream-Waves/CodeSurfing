@@ -42,6 +42,7 @@
 | Day 23 <br/> (2023.09.19.화) | [PRO 148653. 마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 2️⃣ | ✅ | ✅ | ✔️ | ✅ |
 | Day 24 <br/> (2023.09.21.목) | [BOJ 2841. 외계인의 기타 연주](https://www.acmicpc.net/problem/2841) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 25 <br/> (2023.09.26.화) | [BOJ 2156. 포도주 시식](https://www.acmicpc.net/problem/2156) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❔ | ✅ |
+| Day 26 <br/> (2023.10.03.화) | [BOJ 2504. 괄호의 값](https://www.acmicpc.net/problem/2504) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❔ | ❔ | ✅ |
 
 <br/>
 
