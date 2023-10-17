@@ -46,6 +46,7 @@
 | Day 27 <br/> (2023.10.05.목) | [BOJ 1189. 컴백홈](https://www.acmicpc.net/problem/1189) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 28 <br/> (2023.10.10.화) | [BOJ 16918. 봄버맨](https://www.acmicpc.net/problem/16918) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
 | Day 29 <br/> (2023.10.12.목) | [BOJ 7562. 나이트의 이동](https://www.acmicpc.net/problem/7562) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
+| Day 30 <br/> (2023.10.18.화) | [BOJ 17609. 회문](https://www.acmicpc.net/problem/17609) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ❌ | ✅ |
 
 
 <br/>
