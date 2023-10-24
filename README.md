@@ -48,7 +48,7 @@
 | Day 29 <br/> (2023.10.12.목) | [BOJ 7562. 나이트의 이동](https://www.acmicpc.net/problem/7562) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
 | Day 30 <br/> (2023.10.17.화) | [BOJ 17609. 회문](https://www.acmicpc.net/problem/17609) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ❌ | ✅ |
 | Day 31 <br/> (2023.10.19.목) | [BOJ 1141. 접두사](https://www.acmicpc.net/problem/1141) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
-
+| Day 32 <br/> (2023.10.24.화) | [BOJ 14891. 톱니바퀴](https://www.acmicpc.net/problem/14891) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❔ | ❔ |
 
 <br/>
 
