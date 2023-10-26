@@ -3,9 +3,9 @@ import kotlin.math.*
 class BOJ2792 {
     fun main() {
         val (n, m) = readln().split(" ").map { it.toInt() }
-        val arr = IntArray(m)
+        val arr = ArrayList<Int>()
         repeat(m) {
-            arr[it] = readln().toInt()
+            arr.add(readln().toInt())
         }
         fun calc(median: Int): Int {
             var sum = 0
