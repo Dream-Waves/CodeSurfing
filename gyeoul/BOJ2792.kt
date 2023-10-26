@@ -7,11 +7,10 @@ class BOJ2792 {
         repeat(m) {
             arr[it] = readln().toInt()
         }
-        println(arr)
         fun calc(median: Int): Int {
             var sum = 0
             repeat(m) {
-                sum += (ceil(arr[it] / median.toDouble())).toInt()
+                sum += arr[it] / median
                 // 모든 인원은 한종류의 보석만을 가질 수 있으므로
                 // 각 보석을 인원수로 나누었을때 모든 보석을 총 몇명이 나누어 가지는지 계산
             }
