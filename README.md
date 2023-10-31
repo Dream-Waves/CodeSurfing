@@ -50,6 +50,7 @@
 | Day 31 <br/> (2023.10.19.목) | [BOJ 1141. 접두사](https://www.acmicpc.net/problem/1141) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
 | Day 32 <br/> (2023.10.24.화) | [BOJ 14891. 톱니바퀴](https://www.acmicpc.net/problem/14891) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❔ | ❔ |
 | Day 33 <br/> (2023.10.26.목) | [BOJ 2792. 보석 상자](https://www.acmicpc.net/problem/2792) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ☑️ | ☑️ | ☑️ | ☑️ |
+| Day 31 <br/> (2023.10.19.목) | [BOJ 2096. 내려가기](https://www.acmicpc.net/problem/2096) | ![Silver1](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ❔ | ❌ |
 
 <br/>
 
