@@ -52,6 +52,7 @@
 | Day 33 <br/> (2023.10.26.목) | [BOJ 2792. 보석 상자](https://www.acmicpc.net/problem/2792) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ☑️ | ☑️ | ☑️ | ☑️ |
 | Day 34 <br/> (2023.10.31.화) | [BOJ 2096. 내려가기](https://www.acmicpc.net/problem/2096) | ![Silver1](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ❔ | ❌ |
 | Day 35 <br/> (2023.11.02.목) | [BOJ 1245. 농장 관리](https://www.acmicpc.net/problem/1245) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ☑️ | ☑️ | ☑️ |
+| Day 36 <br/> (2023.11.07.화) | [BOJ 3019. 테트리스](https://www.acmicpc.net/problem/3019) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ❔ | ❌ | ❔ |
 
 <br/>
 
