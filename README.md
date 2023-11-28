@@ -22,7 +22,7 @@
 | Day 03 <br/> (2023.07.11.화) | [BOJ 1946. 신입 사원](https://www.acmicpc.net/problem/1946) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 04 <br/> (2023.07.13.목) | [BOJ 9934. 완전 이진 트리](https://www.acmicpc.net/problem/9934) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 05 <br/> (2023.07.18.화) | [BOJ 2688. 줄어들지 않아](https://www.acmicpc.net/problem/2688) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❌ | ✅ |
-| Day 06 <br/> (2023.07.20.목) | [BOJ 1074. Z](https://www.acmicpc.net/problem/1074) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ✅ | ✅ |
+| Day 06 <br/> (2023.07.20.목) | [BOJ 1074. Z](https://www.acmicpc.net/problem/1074) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✔️ | ✅ | ✅ | ✅ |
 | Day 07 <br/> (2023.07.25.화) | [BOJ 17615. 볼 모으기](https://www.acmicpc.net/problem/17615) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 08 <br/> (2023.07.27.목) | [BOJ 1446. 지름길](https://www.acmicpc.net/problem/1446) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ☑️ | ☑️ |
 | Day 09 <br/> (2023.08.01.화) | [BOJ 1149. RGB거리](https://www.acmicpc.net/problem/1149) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❔ | ✅ |
