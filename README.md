@@ -59,6 +59,7 @@
 | Day 40 <br/> (2023.11.21.화) | [BOJ 3495. 아스키 도형](https://www.acmicpc.net/problem/3495) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
 | Day 41 <br/> (2023.11.23.목) | [BOJ 2531. 회전 초밥](https://www.acmicpc.net/problem/2531) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 42 <br/> (2023.11.28.화) | [BOJ 2447. 별 찍기 - 10](https://www.acmicpc.net/problem/2447) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | ✅ |
+| Day 43 <br/> (2023.11.30.목) | [BOJ 1679. 숫자놀이](https://www.acmicpc.net/problem/1679) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ |  |  |  |
 
 <br/>
 
