@@ -50,9 +50,9 @@
 */
 
 
-// 메모리 : 51368KB
-// 시간 : 1840ms
-// 코드 길이 : 1764B
+// 메모리 : 35820KB
+// 시간 : 460ms
+// 코드 길이 : 1876B
 // 정답
 
 package C0012S;
@@ -64,6 +64,7 @@ import java.util.StringTokenizer;
 
 public class BOJ20364 {
     static boolean isOccupied[]; // 해당 인덱스의 번호의 땅의 점유 여부
+    static StringBuilder sb;
 
     public static void occupyLand(int landNum) { // 오리가 원하는 땅을 점유하는 메서드  // 만약 오리가 원하는 땅까지 가는 길에 이미 다른 오리가 점유한 땅이 있을 경우, 땅을 가지지 못한다.  // 오리가 원하는 땅까지 가는 길에는 오리가 원하는 땅도 포함된다.
         int parentNum = landNum;
@@ -81,7 +82,8 @@ public class BOJ20364 {
             isOccupied[landNum] = true; // 오리가 원하는 땅 점유
         }
 
-        System.out.println(answerLandNum);
+        sb.append(answerLandNum);
+        sb.append("\n");
     }
 
     public static void main(String[] args) throws IOException {
@@ -91,8 +93,11 @@ public class BOJ20364 {
         int Q = Integer.parseInt(token.nextToken()); // 꽉꽉나라에 사는 오리 수 (1 ≤ Q ≤ 200,000)
 
         isOccupied = new boolean[N + 1];
+        sb = new StringBuilder();
         for (int q = 0; q < Q; q++) {
             occupyLand(Integer.parseInt(bf.readLine()));
         }
+
+        System.out.println(sb);
     }
 }
