@@ -61,7 +61,7 @@
 | Day 42 <br/> (2023.11.28.화) | [BOJ 2447. 별 찍기 - 10](https://www.acmicpc.net/problem/2447) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 43 <br/> (2023.11.30.목) | [BOJ 1679. 숫자놀이](https://www.acmicpc.net/problem/1679) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ✅ | ✅ |
 | Day 44 <br/> (2023.12.05.화) | [BOJ 16926. 배열 돌리기 1](https://www.acmicpc.net/problem/16926) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❌ | ☑️ |
-| Day 45 <br/> (2023.12.07.목) | [BOJ 20364. 부동산 다툼](https://www.acmicpc.net/problem/20364) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❌ | ✅ | ❌ |
+| Day 45 <br/> (2023.12.07.목) | [BOJ 20364. 부동산 다툼](https://www.acmicpc.net/problem/20364) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✔️ | ✅ | ❌ |
 
 <br/>
 
