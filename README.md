@@ -63,6 +63,7 @@
 | Day 44 <br/> (2023.12.05.화) | [BOJ 16926. 배열 돌리기 1](https://www.acmicpc.net/problem/16926) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❌ | ☑️ |
 | Day 45 <br/> (2023.12.07.목) | [BOJ 20364. 부동산 다툼](https://www.acmicpc.net/problem/20364) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✔️ | ✅ | ❌ |
 | Day 46 <br/> (2023.12.12.화) | [BOJ 1629. 곱셈](https://www.acmicpc.net/problem/1629) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ☑️ | ☑️ | ☑️ | ☑️ |
+| Day 47 <br/> (2023.12.19.화) | [BOJ 10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 
 <br/>
 
