@@ -65,6 +65,7 @@
 | Day 46 <br/> (2023.12.12.화) | [BOJ 1629. 곱셈](https://www.acmicpc.net/problem/1629) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ☑️ | ☑️ | ☑️ | ☑️ |
 | Day 47 <br/> (2023.12.19.화) | [BOJ 10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 48 <br/> (2023.12.21.목) | [BOJ 20529. 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ❌ | ✅ |
+| Day 49 <br/> (2023.12.26.화) | [BOJ 1080. 행렬](https://www.acmicpc.net/problem/1080) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ❌ |
 
 <br/>
 
