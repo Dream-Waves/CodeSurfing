@@ -16,7 +16,7 @@
 |  | 문제 | 🏅 | 박상희 | 박창현 | 이지은 | 전상희 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | GitHub |  |  | [@C0012S](https://github.com/C0012S) | [@gyeoul](https://github.com/gyeoul) | [@Jieun714](https://github.com/Jieun714) | [@ybwi0912](https://github.com/ybwi0912) |
-| Language |  |  | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) <br/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) <br/> ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+| Language |  |  | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) <br/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) <br/> ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) <br/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | Day 01 <br/> (2023.07.04.화) | [BOJ 1743. 음식물 피하기](https://www.acmicpc.net/problem/1743) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ✅ | ✅ |
 | Day 02 <br/> (2023.07.06.목) | [BOJ 1052. 물병](https://www.acmicpc.net/problem/1052) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 03 <br/> (2023.07.11.화) | [BOJ 1946. 신입 사원](https://www.acmicpc.net/problem/1946) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
@@ -64,6 +64,9 @@
 | Day 45 <br/> (2023.12.07.목) | [BOJ 20364. 부동산 다툼](https://www.acmicpc.net/problem/20364) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✔️ | ✅ | ❌ |
 | Day 46 <br/> (2023.12.12.화) | [BOJ 1629. 곱셈](https://www.acmicpc.net/problem/1629) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ☑️ | ☑️ | ☑️ | ☑️ |
 | Day 47 <br/> (2023.12.19.화) | [BOJ 10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
+| Day 48 <br/> (2023.12.21.목) | [BOJ 20529. 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ❌ | ✅ |
+| Day 49 <br/> (2023.12.26.화) | [BOJ 1080. 행렬](https://www.acmicpc.net/problem/1080) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ❌ |
+| Day 50 <br/> (2023.12.26.화) | [BOJ 1927. 최소 힙](https://www.acmicpc.net/problem/1927) | ![Silver2](https://static.solved.ac/tier_small/9.svg) | ✅ | ✅ | ✅ | ✅ |
 
 <br/>
 
