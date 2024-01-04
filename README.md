@@ -67,7 +67,8 @@
 | Day 48 <br/> (2023.12.21.목) | [BOJ 20529. 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ❌ | ✅ |
 | Day 49 <br/> (2023.12.26.화) | [BOJ 1080. 행렬](https://www.acmicpc.net/problem/1080) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ❌ |
 | Day 50 <br/> (2023.12.28.목) | [BOJ 1927. 최소 힙](https://www.acmicpc.net/problem/1927) | ![Silver2](https://static.solved.ac/tier_small/9.svg) | ✅ | ✅ | ✅ | ✅ |
-| Day 51 <br/> (2024.01.02.화) | [BOJ 2660. 회장뽑기](https://www.acmicpc.net/problem/2660) | ![Gold5](https://static.solved.ac/tier_small/11.svg) |  ✅ | ✅ | ✅ | - |
+| Day 51 <br/> (2024.01.02.화) | [BOJ 2660. 회장뽑기](https://www.acmicpc.net/problem/2660) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
+| Day 52 <br/> (2024.01.04.목) | [BOJ 1747. 소수&팰린드롬](https://www.acmicpc.net/problem/1747) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
 
 <br/>
 
