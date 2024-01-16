@@ -43,7 +43,7 @@ public class BOJ18290 {
                 if(isVisited[i][j]) continue; //방문했다면 다음으로
                 if(isCheck(i, j)){ //인접한 수가 아니라면
                     isVisited[i][j] = true; //방문체크
-                    dfs(cnt+1, sum + map[i][j], i, j);
+                    find(cnt+1, sum + map[i][j], i, j);
                     isVisited[i][j] = false; //방문해제
                 }
             }
