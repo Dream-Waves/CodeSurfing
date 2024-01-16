@@ -71,6 +71,7 @@
 | Day 52 <br/> (2024.01.04.목) | [BOJ 1747. 소수&팰린드롬](https://www.acmicpc.net/problem/1747) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
 | Day 53 <br/> (2024.01.09.화) | [BOJ 2583. 영역 구하기](https://www.acmicpc.net/problem/2583) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❌ | - |
 | Day 54 <br/> (2024.01.11.목) | [BOJ 1522. 문자열 교환](https://www.acmicpc.net/problem/1522) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ☑️ | ✅ | ☑️ | - |
+| Day 55 <br/> (2024.01.16.화) | [BOJ 18290. NM과 K (1)](https://www.acmicpc.net/problem/18290) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
 
 <br/>
 
