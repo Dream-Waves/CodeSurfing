@@ -32,7 +32,7 @@ public class BOJ18290 {
         return flag;
     }
 
-    public static void dfs(int cnt, int sum, int r, int c){
+    public static void find(int cnt, int sum, int r, int c){
         if(cnt == arr[2]){ //K과 동일하다면
             answer = Math.max(answer, sum); //선택한 칸에 들어있는 수를 모두 더한 값의 최대 구하기
             return;
@@ -66,7 +66,7 @@ public class BOJ18290 {
         }
 
         isVisited = new boolean[arr[0]][arr[1]];
-        dfs(0, 0, 0, 0);
+        find(0, 0, 0, 0);
 
         System.out.println(answer); //결과 출력
     }
