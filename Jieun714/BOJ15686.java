@@ -76,9 +76,9 @@ public class BOJ15686 {
             }
         }
 
-        select = new int[M];
-        isSelected = new boolean[checkenList.size()];
         if(checkenList.size()>M){ //치킨집의 개수가 M보다 크면
+            select = new int[M];
+            isSelected = new boolean[checkenList.size()];
             combination(0, 0);
             System.out.println(result); //도시의 치킨 거리의 최솟값 출력
         } else {
