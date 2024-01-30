@@ -75,6 +75,7 @@
 | Day 56 <br/> (2024.01.18.목) | [BOJ 21608. 상어 초등학교](https://www.acmicpc.net/problem/21608) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❔ | ❔ | - |
 | Day 57 <br/> (2024.01.23.화) | [BOJ 15686. 치킨 배달](https://www.acmicpc.net/problem/15686) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 58 <br/> (2024.01.25.목) | [BOJ 11052. 카드 구매하기](https://www.acmicpc.net/problem/11052) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
+| Day 59 <br/> (2024.01.30.화) | [BOJ 2527. 직사각형](https://www.acmicpc.net/problem/2527) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❌ | - |
 
 <br/>
 
