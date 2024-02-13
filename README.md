@@ -79,6 +79,7 @@
 | Day 60 <br/> (2024.02.01.목) | [BOJ 1802. 종이 접기](https://www.acmicpc.net/problem/1802) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ❌ | - |
 | Day 61 <br/> (2024.02.06.화) | [BOJ 15973. 두 박스](https://www.acmicpc.net/problem/15973) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ✅ | - |
 | Day 62 <br/> (2024.02.08.목) | [BOJ 5430. AC](https://www.acmicpc.net/problem/5430) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
+| Day 63 <br/> (2024.02.13.화) | [BOJ 1926. 그림](https://www.acmicpc.net/problem/1926) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
 
 <br/>
 
