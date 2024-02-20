@@ -81,6 +81,7 @@
 | Day 62 <br/> (2024.02.08.목) | [BOJ 5430. AC](https://www.acmicpc.net/problem/5430) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 63 <br/> (2024.02.13.화) | [BOJ 1926. 그림](https://www.acmicpc.net/problem/1926) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
 | Day 64 <br/> (2024.02.15.목) | [BOJ 12865. 평범한 배낭](https://www.acmicpc.net/problem/12865) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
+| Day 65 <br/> (2024.02.20.화) | [BOJ 1303. 전쟁 - 전투](https://www.acmicpc.net/problem/1303) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
 
 <br/>
 
