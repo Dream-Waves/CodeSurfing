@@ -83,6 +83,7 @@
 | Day 64 <br/> (2024.02.15.목) | [BOJ 12865. 평범한 배낭](https://www.acmicpc.net/problem/12865) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 65 <br/> (2024.02.20.화) | [BOJ 1303. 전쟁 - 전투](https://www.acmicpc.net/problem/1303) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
 | Day 66 <br/> (2024.02.22.목) | [BOJ 13164. 행복 유치원](https://www.acmicpc.net/problem/13164) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ❌ | ✅ | - |
+| Day 67 <br/> (2024.02.27.화) | [BOJ 1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ☑️ | - |
 
 <br/>
 
