@@ -85,6 +85,7 @@
 | Day 66 <br/> (2024.02.22.목) | [BOJ 13164. 행복 유치원](https://www.acmicpc.net/problem/13164) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ❌ | ✅ | - |
 | Day 67 <br/> (2024.02.27.화) | [BOJ 1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ☑️ | - |
 | Day 68 <br/> (2024.02.29.목) | [BOJ 11497. 통나무 건너뛰기](https://www.acmicpc.net/problem/11497) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
+| Day 69 <br/> (2024.03.05.화) | [BOJ 1890. 점프](https://www.acmicpc.net/problem/1890) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ☑️ | - |
 
 <br/>
 
