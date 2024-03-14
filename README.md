@@ -88,6 +88,7 @@
 | Day 69 <br/> (2024.03.05.화) | [BOJ 1890. 점프](https://www.acmicpc.net/problem/1890) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ☑️ | - |
 | Day 70 <br/> (2024.03.07.목) | [BOJ 2212. 센서](https://www.acmicpc.net/problem/2212) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ☑️ | ☑️ | - |
 | Day 71 <br/> (2024.03.12.화) | [BOJ 1527. 금민수의 개수](https://www.acmicpc.net/problem/1527) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
+| Day 72 <br/> (2024.03.14.목) | [BOJ 14719. 빗물](https://www.acmicpc.net/problem/14719) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 
 <br/>
 
