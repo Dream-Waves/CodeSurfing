@@ -90,6 +90,7 @@
 | Day 71 <br/> (2024.03.12.화) | [BOJ 1527. 금민수의 개수](https://www.acmicpc.net/problem/1527) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | - |
 | Day 72 <br/> (2024.03.14.목) | [BOJ 14719. 빗물](https://www.acmicpc.net/problem/14719) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 73 <br/> (2024.03.19.화) | [BOJ 1124. 언더프라임](https://www.acmicpc.net/problem/1124) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❌ | - |
+| Day 74 <br/> (2024.03.21.목) | [BOJ 11057. 오르막 수](https://www.acmicpc.net/problem/11057) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ☑️ | ✅ | ☑️ | - |
 
 <br/>
 
