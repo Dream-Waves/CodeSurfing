@@ -93,6 +93,7 @@
 | Day 74 <br/> (2024.03.21.목) | [BOJ 11057. 오르막 수](https://www.acmicpc.net/problem/11057) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ☑️ | ✅ | ☑️ | - |
 | Day 75 <br/> (2024.03.26.화) | [BOJ 13335. 트럭](https://www.acmicpc.net/problem/13335) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | - |
 | Day 76 <br/> (2024.03.28.목) | [BOJ 17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
+| Day 77 <br/> (2024.04.02.화) | [BOJ 12026. BOJ 거리](https://www.acmicpc.net/problem/12026) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ☑️ | - |
 
 <br/>
 
