@@ -95,7 +95,8 @@
 | Day 76 <br/> (2024.03.28.목) | [BOJ 17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
 | Day 77 <br/> (2024.04.02.화) | [BOJ 12026. BOJ 거리](https://www.acmicpc.net/problem/12026) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ☑️ | - |
 | Day 78 <br/> (2024.04.04.목) | [BOJ 12919. A와 B 2](https://www.acmicpc.net/problem/12919) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
-| Day 79 <br/> (2024.04.09.목) | [BOJ 5972. 택배 배송](https://www.acmicpc.net/problem/5972) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❔ | - |
+| Day 79 <br/> (2024.04.09.화) | [BOJ 5972. 택배 배송](https://www.acmicpc.net/problem/5972) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❔ | - |
+| Day 80 <br/> (2024.04.11.목) | [BOJ 9935. 문자열 폭발](https://www.acmicpc.net/problem/9935) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ✅ | ✅ | - |
 
 <br/>
 
