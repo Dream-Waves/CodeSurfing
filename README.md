@@ -99,6 +99,7 @@
 | Day 80 <br/> (2024.04.11.목) | [BOJ 9935. 문자열 폭발](https://www.acmicpc.net/problem/9935) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ✅ | ✅ | - |
 | Day 81 <br/> (2024.04.16.화) | [PRO 42888. 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 2️⃣ | ✅ | ✅ | ✅ | - |
 | Day 82 <br/> (2024.04.18.목) | [BOJ 2565. 전깃줄](https://www.acmicpc.net/problem/2565) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ✅ | - |
+| Day 83 <br/> (2024.04.23.화) | [BOJ 4811. 알약](https://www.acmicpc.net/problem/4811) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 
 <br/>
 
