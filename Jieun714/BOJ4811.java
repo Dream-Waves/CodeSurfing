@@ -20,10 +20,10 @@ public class BOJ4811 {
         } else {
             if(dp[w][h] != 0) return dp[w][h]; //w, h 사이즈에 해당하는 dp배열이 계산되어 있다면 해당 dp 배열을 리턴
             long answer = 0;
-            if (w > 0) { //한조각만 있을 때
+            if (w > 0) { //병 속에 한조각(w) 있을 때
                 answer += cntCheck(w - 1, h + 1);
             }
-            if (h > 0) { //반조각만 있을 때
+            if (h > 0) { //병 속에 반조각(h) 있을 때
                 answer += cntCheck(w, h - 1);
             }
             dp[w][h] = answer;
