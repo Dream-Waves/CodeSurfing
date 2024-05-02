@@ -102,7 +102,7 @@
 | Day 83 <br/> (2024.04.23.화) | [BOJ 4811. 알약](https://www.acmicpc.net/problem/4811) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 84 <br/> (2024.04.25.목) | [BOJ 2467. 용액](https://www.acmicpc.net/problem/2467) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❌ | - |
 | Day 85 <br/> (2024.04.30.화) | [BOJ 5557. 1학년](https://www.acmicpc.net/problem/5557) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
-
+| Day 86 <br/> (2024.05.02.목) | [BOJ 3020. 개똥벌레](https://www.acmicpc.net/problem/3020) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ✅ | ❔ | - |
 
 <br/>
 
