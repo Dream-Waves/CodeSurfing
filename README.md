@@ -103,7 +103,7 @@
 | Day 84 <br/> (2024.04.25.목) | [BOJ 2467. 용액](https://www.acmicpc.net/problem/2467) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❌ | - |
 | Day 85 <br/> (2024.04.30.화) | [BOJ 5557. 1학년](https://www.acmicpc.net/problem/5557) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 86 <br/> (2024.05.02.목) | [BOJ 3020. 개똥벌레](https://www.acmicpc.net/problem/3020) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ✅ | ❔ | - |
-| Day 87 <br/> (2024.05.07.화) | [PRO 92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 2️⃣ | ❌ | ✅ | ✅ | - |
+| Day 87 <br/> (2024.05.07.화) | [PRO 92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 2️⃣ | ✔️ | ✅ | ✅ | - |
 | Day 88 <br/> (2024.05.09.목) | [PRO 92335. k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 2️⃣ | ✅ | ❌ | ✅ | - |
 
 <br/>
