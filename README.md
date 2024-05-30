@@ -109,6 +109,7 @@
 | Day 90 <br/> (2024.05.16.목) | [BOJ 1911. 흙길 보수하기](https://www.acmicpc.net/problem/1911) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ✅ | - |
 | Day 91 <br/> (2024.05.23.목) | [BOJ 9205. 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ☑️ | - |
 | Day 92 <br/> (2024.05.28.화) | [BOJ 2166. 다각형의 면적](https://www.acmicpc.net/problem/2166) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ☑️ | ☑️ | - |
+| Day 93 <br/> (2024.05.30.목) | [PRO 17679. 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | 2️⃣ | ✅ | ✅ | ✅ | - |
 
 <br/>
 
