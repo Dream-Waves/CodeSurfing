@@ -6,6 +6,7 @@ package Jieun714;
  * 출력: 첫째 줄에 N번째 감소하는 수를 출력한다.
  * 해결: 브루트포스 알고리즘
  */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,33 +17,31 @@ public class BOJ1038 {
         int N = Integer.parseInt(br.readLine()); //N번째 감소하는 수
         long answer = 0; //결과를 담을 변수
         int cnt = 0; //현재 몇 번째인지 체크하는 변수
-        if (N == 1022) answer = 9876543210L; //감소하는 수가 될 수 있는 최대의 값
-        else {
-            long num = 1;
-            while (cnt != N) { //N번째 감소하는 수일 때까지
-                if (num > 9876543210L) { //만약 최대의 값이 넘을 때
-                    answer = -1; //결과는 -1
+        long num = 1;
+        while (cnt != N) { //N번째 감소하는 수일 때까지
+            if (num > 9876543210L) { //만약 최대의 값이 넘을 때
+                answer = -1; //결과는 -1
+                break;
+            }
+            long now = num;
+            boolean flag = false; //감소하는 수인지 확인하는 변수
+            String str = Long.toString(now);
+            int n = str.length();
+            for (int j = 0; j < n - 1; j++) {
+                if (str.charAt(j) <= str.charAt(j + 1)) { //앞자리 수보다 뒷자리수가 크거나 같을 때
+                    flag = true; //감소하는 수가 아님을 체크
+                    int k = (int) Math.pow(10, (n - j - 1));
+                    num = ((num / k) + 1) * k; //num을 감소하는 변수의 시작으로 변경
                     break;
                 }
-                long now = num;
-                boolean flag = false; //감소하는 수인지 확인하는 변수
-                String str = Long.toString(now);
-                int n = str.length();
-                for (int j = 0; j < n - 1; j++) {
-                    if (str.charAt(j) <= str.charAt(j + 1)) { //앞자리 수보다 뒷자리수가 크거나 같을 때
-                        flag = true; //감소하는 수가 아님을 체크
-                        int k = (int) Math.pow(10, (n - j - 1));
-                        num = ((num / k) + 1) * k; //num을 감소하는 변수의 시작으로 변경
-                        break;
-                    }
-                }
-
-                if (!flag) { //감소하는 수 일 때
-                    answer = num;
-                    num++;
-                    cnt++;
-                }
             }
+
+            if (!flag) { //감소하는 수 일 때
+                answer = num;
+                num++;
+                cnt++;
+            }
+
         } //else end
         System.out.println(answer); //N번째 감소하는 수를 출력
     }
