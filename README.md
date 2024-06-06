@@ -111,6 +111,7 @@
 | Day 92 <br/> (2024.05.28.화) | [BOJ 2166. 다각형의 면적](https://www.acmicpc.net/problem/2166) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ☑️ | ☑️ | - |
 | Day 93 <br/> (2024.05.30.목) | [PRO 17679. 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | 2️⃣ | ✅ | ✅ | ✅ | - |
 | Day 94 <br/> (2024.06.04.화) | [PRO 43105. 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 3️⃣ | ✅ | ❌ | ✅ | - |
+| Day 95 <br/> (2024.06.06.목) | [BOJ 1038. 감소하는 수](https://www.acmicpc.net/problem/1038) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
 
 
 <br/>
