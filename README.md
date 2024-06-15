@@ -103,7 +103,18 @@
 | Day 84 <br/> (2024.04.25.목) | [BOJ 2467. 용액](https://www.acmicpc.net/problem/2467) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❌ | - |
 | Day 85 <br/> (2024.04.30.화) | [BOJ 5557. 1학년](https://www.acmicpc.net/problem/5557) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 86 <br/> (2024.05.02.목) | [BOJ 3020. 개똥벌레](https://www.acmicpc.net/problem/3020) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ✅ | ❔ | - |
-| Day 87 <br/> (2024.05.07.화) | [PRO 92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 2️⃣ | ❌ | ✅ | ✅ | - |
+| Day 87 <br/> (2024.05.07.화) | [PRO 92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 2️⃣ | ✔️ | ✅ | ✅ | - |
+| Day 88 <br/> (2024.05.09.목) | [PRO 92335. k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 2️⃣ | ✅ | ❌ | ✅ | - |
+| Day 89 <br/> (2024.05.14.화) | [BOJ 2293. 동전 1](https://www.acmicpc.net/problem/2293) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ❔ | - |
+| Day 90 <br/> (2024.05.16.목) | [BOJ 1911. 흙길 보수하기](https://www.acmicpc.net/problem/1911) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✔️ | ❌ | ✅ | - |
+| Day 91 <br/> (2024.05.23.목) | [BOJ 9205. 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ☑️ | - |
+| Day 92 <br/> (2024.05.28.화) | [BOJ 2166. 다각형의 면적](https://www.acmicpc.net/problem/2166) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ☑️ | ☑️ | - |
+| Day 93 <br/> (2024.05.30.목) | [PRO 17679. 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | 2️⃣ | ✅ | ✅ | ✅ | - |
+| Day 94 <br/> (2024.06.04.화) | [PRO 43105. 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 3️⃣ | ✅ | ❌ | ✅ | - |
+| Day 95 <br/> (2024.06.06.목) | [BOJ 1038. 감소하는 수](https://www.acmicpc.net/problem/1038) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
+| Day 96 <br/> (2024.06.11.화) | [BOJ 2023. 신기한 소수](https://www.acmicpc.net/problem/2023) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ☑️ | - |
+| Day 97 <br/> (2024.06.13.목) | [BOJ 2170. 선 긋기](https://www.acmicpc.net/problem/2170) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ✅ | - |
+
 
 <br/>
 
