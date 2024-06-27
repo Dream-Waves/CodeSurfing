@@ -116,6 +116,7 @@
 | Day 97 <br/> (2024.06.13.목) | [BOJ 2170. 선 긋기](https://www.acmicpc.net/problem/2170) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ✅ | - |
 | Day 98 <br/> (2024.06.18.화) | [BOJ 18428. 감시 피하기](https://www.acmicpc.net/problem/18428) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ☑️ | - |
 | Day 99 <br/> (2024.06.25.화) | [PRO 42884. 단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 3️⃣ | ✅ | ✅ | ❌ | - |
+| Day 100 <br/> (2024.06.27.목) | [PRO 42583. 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 2️⃣  | ❌ | ❌ | ✅ | - |
 
 <br/>
 
