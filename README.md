@@ -118,6 +118,7 @@
 | Day 99 <br/> (2024.06.25.화) | [PRO 42884. 단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 3️⃣ | ✅ | ✅ | ❌ | - |
 | Day 100 <br/> (2024.06.27.목) | [PRO 42583. 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 2️⃣  | ❌ | ❌ | ✅ | - |
 | Day 101 <br/> (2024.07.02.화) | [BOJ 2240. 자두나무](https://www.acmicpc.net/problem/2240) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ❌ | ☑️ | - |
+| Day 102 <br/> (2024.07.04.목) | [BOJ 21758. 꿀 따기](https://www.acmicpc.net/problem/21758) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❔ | - |
 
 <br/>
 
