@@ -120,6 +120,7 @@
 | Day 101 <br/> (2024.07.02.화) | [BOJ 2240. 자두나무](https://www.acmicpc.net/problem/2240) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ❌ | ☑️ | - |
 | Day 102 <br/> (2024.07.04.목) | [BOJ 21758. 꿀 따기](https://www.acmicpc.net/problem/21758) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❔ | - |
 | Day 103 <br/> (2024.07.09.화) | [BOJ 7490. 0 만들기](https://www.acmicpc.net/problem/7490) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✔️ | ✅ | ❔ | - |
+| Day 104 <br/> (2024.07.11.목) | [BOJ 16987. 계란으로 계란치기](https://www.acmicpc.net/problem/16987) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❔ | ✅ | - |
 
 <br/>
 
