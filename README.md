@@ -122,6 +122,7 @@
 | Day 103 <br/> (2024.07.09.화) | [BOJ 7490. 0 만들기](https://www.acmicpc.net/problem/7490) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✔️ | ✅ | ❔ | - |
 | Day 104 <br/> (2024.07.11.목) | [BOJ 16987. 계란으로 계란치기](https://www.acmicpc.net/problem/16987) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❔ | ✅ | - |
 | Day 105 <br/> (2024.07.16.화) | [PRO 17684. 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | 2️⃣ | ✅ | ❌ | ❔ | - |
+| Day 106 <br/> (2024.07.18.목) | [PRO 42628. 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 3️⃣ | ❌ | ❌ | ✅ | - |
 
 <br/>
 
