@@ -22,14 +22,14 @@ public class BOJ6198 {
 
         for(int i=0; i<N; i++) {
             int high = Integer.parseInt(br.readLine()); //빌딩의 높이
-            while(!stack.isEmpty() && stack.peek() <= high) { //큐가 비어있지 않고, 더이상 벤치마킹이 불가능할 때
+            while(!stack.isEmpty() && stack.peek() <= high) { //스택이 비어 있지 않고, 더이상 벤치마킹이 불가능할 때
                 stack.pop();
                 total += stack.size(); //벤치마킹이 가능한 빌딩의 수를 더함
             }
             stack.push(high); //스택에 빌딩의 높이 추가
         }
 
-        while(!stack.isEmpty()) { //큐가 비어 있지 않을 때
+        while(!stack.isEmpty()) { //스택이 비어 있지 않을 때
             stack.pop();
             total += stack.size(); //벤치마킹이 가능한 빌딩의 수를 더함
         }
