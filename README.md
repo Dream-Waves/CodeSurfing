@@ -129,6 +129,7 @@
 | Day 110 <br/> (2024.08.06.화) | [BOJ 1713. 후보 추천하기](https://www.acmicpc.net/problem/1713) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❌ | ✅ | - |
 | Day 111 <br/> (2024.08.13.화) | [PRO 42898. 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 3️⃣ | ❌ | ❔ | ✔️ | - |
 | Day 112 <br/> (2024.08.20.화) | [PRO 17686. 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | 2️⃣ | ❌ | ❔ | ❔ | - |
+| Day 113 <br/> (2024.08.27.화) | [BOJ 15662. 톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❌ | - |
 
 <br/>
 
