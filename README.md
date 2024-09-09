@@ -44,7 +44,7 @@
 | Day 25 <br/> (2023.09.26.화) | [BOJ 2156. 포도주 시식](https://www.acmicpc.net/problem/2156) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ❔ | ✅ |
 | Day 26 <br/> (2023.10.03.화) | [BOJ 2504. 괄호의 값](https://www.acmicpc.net/problem/2504) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❔ | ❔ | ✅ |
 | Day 27 <br/> (2023.10.05.목) | [BOJ 1189. 컴백홈](https://www.acmicpc.net/problem/1189) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
-| Day 28 <br/> (2023.10.10.화) | [BOJ 16918. 봄버맨](https://www.acmicpc.net/problem/16918) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ✔️ | ✅ |
+| Day 28 <br/> (2023.10.10.화) | [BOJ 16918. 봄버맨](https://www.acmicpc.net/problem/16918) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✔️ | ✅ | ✔️ | ✅ |
 | Day 29 <br/> (2023.10.12.목) | [BOJ 7562. 나이트의 이동](https://www.acmicpc.net/problem/7562) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ✔️ | ✅ |
 | Day 30 <br/> (2023.10.17.화) | [BOJ 17609. 회문](https://www.acmicpc.net/problem/17609) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ❌ | ✅ |
 | Day 31 <br/> (2023.10.19.목) | [BOJ 1141. 접두사](https://www.acmicpc.net/problem/1141) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
