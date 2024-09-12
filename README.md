@@ -133,6 +133,7 @@
 | Day 114 <br/> (2024.08.29.목) | [BOJ 1722. 순열의 순서](https://www.acmicpc.net/problem/1722) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❔ | - |
 | Day 115 <br/> (2024.09.03.화) | [BOJ 6581. HTML](https://www.acmicpc.net/problem/6581) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 116 <br/> (2024.09.05.목) | [BOJ 16719. ZOAC](https://www.acmicpc.net/problem/16719) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❔ | - |
+| Day 117 <br/> (2024.09.12.목) | [PRO 49994. 방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | 2️⃣ | ❌ | ✅ | ✅ | - |
 
 <br/>
 
