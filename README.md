@@ -137,6 +137,7 @@
 | Day 118 <br/> (2024.09.19.목) | [PRO 49993. 스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | 2️⃣ | ✅ | ✅ | ❌ | - |
 | Day 119 <br/> (2024.09.26.목) | [BOJ 2011. 암호코드](https://www.acmicpc.net/problem/2011) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✔️ | ☑️ | - |
 | Day 120 <br/> (2024.10.01.화) | [BOJ 1174. 줄어드는 수](https://www.acmicpc.net/problem/1174) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ❌ | - |
+| Day 121 <br/> (2024.10.08.화) | [BOJ 16927. 배열 돌리기 2](https://www.acmicpc.net/problem/16927) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ☑️ | - |
 
 <br/>
 
