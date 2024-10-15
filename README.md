@@ -139,6 +139,7 @@
 | Day 120 <br/> (2024.10.01.화) | [BOJ 1174. 줄어드는 수](https://www.acmicpc.net/problem/1174) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ❌ | - |
 | Day 121 <br/> (2024.10.08.화) | [BOJ 16927. 배열 돌리기 2](https://www.acmicpc.net/problem/16927) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✔️ | ❌ | ☑️ | - |
 | Day 122 <br/> (2024.10.10.목) | [BOJ 1092. 배](https://www.acmicpc.net/problem/1092) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
+| Day 123 <br/> (2024.10.15.화) | [PRO 72411. 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | 2️⃣ | ✅ | ✅ | ✅ | - |
 
 <br/>
 
