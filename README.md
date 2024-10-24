@@ -105,7 +105,7 @@
 | Day 86 <br/> (2024.05.02.목) | [BOJ 3020. 개똥벌레](https://www.acmicpc.net/problem/3020) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ✅ | ❔ | - |
 | Day 87 <br/> (2024.05.07.화) | [PRO 92341. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 2️⃣ | ✔️ | ✅ | ✅ | - |
 | Day 88 <br/> (2024.05.09.목) | [PRO 92335. k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 2️⃣ | ✅ | ❌ | ✅ | - |
-| Day 89 <br/> (2024.05.14.화) | [BOJ 2293. 동전 1](https://www.acmicpc.net/problem/2293) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ❔ | - |
+| Day 89 <br/> (2024.05.14.화) | [BOJ 2293. 동전 1](https://www.acmicpc.net/problem/2293) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✔️ | ❌ | ❔ | - |
 | Day 90 <br/> (2024.05.16.목) | [BOJ 1911. 흙길 보수하기](https://www.acmicpc.net/problem/1911) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✔️ | ❌ | ✅ | - |
 | Day 91 <br/> (2024.05.23.목) | [BOJ 9205. 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ☑️ | - |
 | Day 92 <br/> (2024.05.28.화) | [BOJ 2166. 다각형의 면적](https://www.acmicpc.net/problem/2166) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ☑️ | ☑️ | - |
