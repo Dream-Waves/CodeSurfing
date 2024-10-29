@@ -143,6 +143,7 @@
 | Day 124 <br/> (2024.10.17.목) | [PRO 12987. 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 3️⃣ | ✔️ | ❌ | ✅ | - |
 | Day 125 <br/> (2024.10.22.화) | [BOJ 19539. 사과나무](https://www.acmicpc.net/problem/19539) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ☑️ | ❌ | ❔ | - |
 | Day 126 <br/> (2024.10.24.목) | [BOJ 14712. 넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ☑️ | - |
+| Day 127 <br/> (2024.10.29.화) | [BOJ 2533. 사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | ![Gold3](https://static.solved.ac/tier_small/13.svg) | ✅ | ❌ | ❌ | - |
 
 <br/>
 
