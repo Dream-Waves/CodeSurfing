@@ -56,7 +56,7 @@
 | Day 37 <br/> (2023.11.09.목) | [BOJ 15565. 귀여운 라이언](https://www.acmicpc.net/problem/15565) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
 | Day 38 <br/> (2023.11.14.화) | [BOJ 12904. A와 B](https://www.acmicpc.net/problem/12904) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ✅ | ✅ |
 | Day 39 <br/> (2023.11.16.목) | [PRO 118667. 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 2️⃣ | ❌ | ✅ | ✔️ | ❌ |
-| Day 40 <br/> (2023.11.21.화) | [BOJ 3495. 아스키 도형](https://www.acmicpc.net/problem/3495) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | ✅ |
+| Day 40 <br/> (2023.11.21.화) | [BOJ 3495. 아스키 도형](https://www.acmicpc.net/problem/3495) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✔️ | ✅ | ❌ | ✅ |
 | Day 41 <br/> (2023.11.23.목) | [BOJ 2531. 회전 초밥](https://www.acmicpc.net/problem/2531) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 42 <br/> (2023.11.28.화) | [BOJ 2447. 별 찍기 - 10](https://www.acmicpc.net/problem/2447) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | ✅ |
 | Day 43 <br/> (2023.11.30.목) | [BOJ 1679. 숫자놀이](https://www.acmicpc.net/problem/1679) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❔ | ✅ | ✅ |
