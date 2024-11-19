@@ -148,6 +148,7 @@
 | Day 129 <br/> (2024.11.07.목) | [PRO 17683. 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | 2️⃣ | ✔️ | ❌ | ✅ | - |
 | Day 130 <br/> (2024.11.12.화) | [PRO 12979. 기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 3️⃣ | ❌ | ✅ | ❌ | - |
 | Day 131 <br/> (2024.11.14.목) | [BOJ 22862. 가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ☑️ | - |
+| Day 132 <br/> (2024.11.19.화) | [BOJ 14567. 선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 
 <br/>
 
