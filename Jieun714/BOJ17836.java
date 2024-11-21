@@ -32,7 +32,7 @@ public class BOJ17836 {
     public static void bfs(int x, int y) {
         Queue<int []> que = new ArrayDeque<>();
         que.add(new int [] {y, x, 0, 0}); //y좌표, x좌표, 그람의 수, 이동 시간
-        isVisited[y][x][0] = true;
+        isVisited[0][y][x] = true;
 
         while(!que.isEmpty()) {
             int [] now = que.poll();
@@ -48,16 +48,16 @@ public class BOJ17836 {
                 if(!check(ny, nx)) continue;
 
                 if(now[2] > 0) { //소유한 그람이 있을 때
-                    if(!isVisited[ny][nx][1]) que.add(new int[] {ny, nx, now[2], now[3]+1});
-                    isVisited[ny][nx][1] = true; //그람을 갖고 있을 때의 방문 처리
+                    if(!isVisited[1][ny][nx]) que.add(new int[] {ny, nx, now[2], now[3]+1});
+                    isVisited[1][ny][nx] = true; //그람을 갖고 있을 때의 방문 처리
                 } else {
-                    if(isVisited[ny][nx][0]) continue;
+                    if(isVisited[0][ny][nx]) continue;
                     if(map[ny][nx] == 0) {
                         que.add(new int[] {ny, nx, now[2], now[3]+1});
-                        isVisited[ny][nx][0] = true; //그람을 갖고 있지 않을 때의 방문 처리
+                        isVisited[0][ny][nx] = true; //그람을 갖고 있지 않을 때의 방문 처리
                     } else if(map[ny][nx] == 2) {
                         que.add(new int[] {ny, nx, now[2]+1, now[3]+1}); //그람 추가
-                        isVisited[ny][nx][0] = true; //그람을 갖고 있지 않을 때의 방문 처리
+                        isVisited[0][ny][nx] = true; //그람을 갖고 있지 않을 때의 방문 처리
                     }
                 }
             } //end for
@@ -75,7 +75,7 @@ public class BOJ17836 {
             st = new StringTokenizer(br.readLine());
             for(int j=0; j<M; j++) map[i][j] = Integer.parseInt(st.nextToken());
         }
-        isVisited = new boolean[N][M][2];
+        isVisited = new boolean[2][N][M];
         bfs(0, 0);
         System.out.println(min == Integer.MAX_VALUE ? "Fail" : min);
     }
