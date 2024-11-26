@@ -150,6 +150,7 @@
 | Day 131 <br/> (2024.11.14.목) | [BOJ 22862. 가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ☑️ | - |
 | Day 132 <br/> (2024.11.19.화) | [BOJ 14567. 선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ✅ | - |
 | Day 133 <br/> (2024.11.21.목) | [BOJ 17836. 공주님을 구해라!](https://www.acmicpc.net/problem/17836) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ✅ | - |
+| Day 134 <br/> (2024.11.26.화) | [BOJ 15922. 아우으 우아으이야!!](https://www.acmicpc.net/problem/15922) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❌ | - |
 
 <br/>
 
