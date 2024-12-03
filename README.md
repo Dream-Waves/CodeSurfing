@@ -124,7 +124,7 @@
 | Day 105 <br/> (2024.07.16.화) | [PRO 17684. 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | 2️⃣ | ✅ | ❌ | ❔ | - |
 | Day 106 <br/> (2024.07.18.목) | [PRO 42628. 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 3️⃣ | ❌ | ❌ | ✅ | - |
 | Day 107 <br/> (2024.07.25.목) | [BOJ 6198. 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ☑️ | - |
-| Day 108 <br/> (2024.07.30.화) | [BOJ 21610. 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ✅ | - |
+| Day 108 <br/> (2024.07.30.화) | [BOJ 21610. 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✔️ | ✅ | ✅ | - |
 | Day 109 <br/> (2024.08.01.목) | [BOJ 3107. IPv6](https://www.acmicpc.net/problem/3107) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❔ | - |
 | Day 110 <br/> (2024.08.06.화) | [BOJ 1713. 후보 추천하기](https://www.acmicpc.net/problem/1713) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ✅ | ❌ | ✅ | - |
 | Day 111 <br/> (2024.08.13.화) | [PRO 42898. 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 3️⃣ | ❌ | ❔ | ✔️ | - |
