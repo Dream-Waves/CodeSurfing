@@ -153,6 +153,7 @@
 | Day 134 <br/> (2024.11.26.화) | [BOJ 15922. 아우으 우아으이야!!](https://www.acmicpc.net/problem/15922) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ✅ | ❌ | - |
 | Day 135 <br/> (2024.11.28.목) | [PRO 12978. 배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | 2️⃣ | ✅ | ❌ | ❔ | - |
 | Day 136 <br/> (2024.12.05.목) | [PRO 42584. 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 2️⃣ | ❌ | ❌ | ✅ | - |
+| Day 137 <br/> (2024.12.12.목) | [BOJ 12851. 숨바꼭질 2](https://www.acmicpc.net/problem/12851) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ☑️ | - |
 
 <br/>
 
