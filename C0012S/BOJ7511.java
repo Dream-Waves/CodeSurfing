@@ -56,9 +56,9 @@
 */
 
 
-// 메모리 : 162276KB
-// 시간 : 840ms
-// 코드 길이 : 2700B
+// 메모리 : 166076KB
+// 시간 : 772ms
+// 코드 길이 : 2712B
 // 정답
 
 package C0012S;
@@ -76,11 +76,11 @@ public class BOJ7511 {
     static StringBuilder sb;
 
     public static int find(int v) { // 유니온 파인드의 파인드 연산 메서드
-        if (friend[v] == v) {
-            return v;
+        if (friend[v] != v) {
+            return friend[v] = find(friend[v]);
         }
 
-        return find(friend[v]);
+        return v;
     }
 
     public static void union(int u, int v) { // 유니온 파인드의 유니온 연산 메서드
