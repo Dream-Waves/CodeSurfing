@@ -155,6 +155,7 @@
 | Day 136 <br/> (2024.12.05.목) | [PRO 42584. 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 2️⃣ | ❌ | ❌ | ✅ | - |
 | Day 137 <br/> (2024.12.12.목) | [BOJ 12851. 숨바꼭질 2](https://www.acmicpc.net/problem/12851) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ☑️ | - |
 | Day 138 <br/> (2024.12.24.화) | [BOJ 7511. 소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/12851) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
+| Day 139 <br/> (2024.12.26.목) | [BOJ 23629. 이 얼마나 끔찍하고 무시무시한 수식이니](https://www.acmicpc.net/problem/23629) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❔ | ❌ | - |
 
 <br/>
 
