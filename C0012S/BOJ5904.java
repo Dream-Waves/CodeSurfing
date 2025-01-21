@@ -60,7 +60,7 @@ public class BOJ5904 {
     static int sideLenth; // Moo 수열의 왼쪽 측면과 오른쪽 측면에 들어갈 문자열의 길이
     static StringBuilder mooMid; // Moo 수열의 중앙에 들어갈 문자열을 저장하는 StringBuilder
 
-    public static void find() { // Moo 수열에서 찾으려는 글자의 순서를 포함하는 Moo 수열 S(k)의 최소 k를 찾는 메서드
+    public static void find() { // Moo 수열에서 찾으려는 글자를 포함하는 Moo 수열 S(k)의 최소 k를 찾는 메서드
         int prevLength = 0; // Moo 수열 S(k - 1)의 전체 길이
 
         while (true) {
