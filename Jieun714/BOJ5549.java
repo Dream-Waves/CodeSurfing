@@ -46,8 +46,8 @@ public class BOJ5549 {
                 ocean[i][j] = ocean[i-1][j] + ocean[i][j-1] - ocean[i-1][j-1];
                 ice[i][j] = ice[i-1][j] + ice[i][j-1] - ice[i-1][j-1];
 
-                if(str.charAt(i-1) == 'J') jungle[i][j] += 1;
-                if(str.charAt(i-1) == 'O') ocean[i][j] += 1;
+                if(str.charAt(j-1) == 'J') jungle[i][j] += 1;
+                else if(str.charAt(j-1) == 'O') ocean[i][j] += 1;
                 else ice[i][j] += 1;
             }
         }
