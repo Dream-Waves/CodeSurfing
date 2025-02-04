@@ -31,15 +31,15 @@ Lv. 2 #68645 - 삼각 달팽이
 
 /*
     정확성  테스트
-        테스트 1 〉	통과 (0.02ms, 81.7MB)
-        테스트 2 〉	통과 (0.04ms, 83.6MB)
-        테스트 3 〉	통과 (0.02ms, 76.1MB)
-        테스트 4 〉	통과 (0.64ms, 82.2MB)
-        테스트 5 〉	통과 (1.19ms, 90.1MB)
-        테스트 6 〉	통과 (0.77ms, 76MB)
-        테스트 7 〉	통과 (15.96ms, 145MB)
-        테스트 8 〉	통과 (17.11ms, 132MB)
-        테스트 9 〉	통과 (18.50ms, 134MB)
+        테스트 1 〉	통과 (0.02ms, 86.6MB)
+        테스트 2 〉	통과 (0.02ms, 78.8MB)
+        테스트 3 〉	통과 (0.02ms, 93.7MB)
+        테스트 4 〉	통과 (0.47ms, 77.1MB)
+        테스트 5 〉	통과 (0.46ms, 93.7MB)
+        테스트 6 〉	통과 (0.47ms, 85.9MB)
+        테스트 7 〉	통과 (18.26ms, 127MB)
+        테스트 8 〉	통과 (14.90ms, 127MB)
+        테스트 9 〉	통과 (19.26ms, 129MB)
 
     채점 결과
         정확성: 100.0
@@ -57,14 +57,6 @@ class PRO68645 {
     static int[] dy = {0, 1, -1}; // 하, 우, 좌상
     static int[] answer; // 달팽이 채우기를 진행한 후, 첫 행부터 마지막 행까지 모두 순서대로 합친 배열
 
-    public static boolean check(int n, int x, int y) { // 해당 좌표가 삼각형 범위 내의 좌표인지 검사하는 메서드
-        if (x >= 0 && x < n && y >= 0 && y < n) {
-            return true;
-        }
-
-        return false;
-    }
-
     public static void make(int n) { // 달팽이 채우기를 진행하는 메서드
         int x = -1; // 행 인덱스
         int y = 0; // 열 인덱스
@@ -75,16 +67,10 @@ class PRO68645 {
         triangle = new int[n][n];
         while (moveNum > 0) {
             for (int d = 0; d < moveNum; d++) {
-                int nx = x + dx[direction]; // 달팽이를 채울 행 인덱스
-                int ny = y + dy[direction]; // 달팽이를 채울 열 인덱스
+                x += dx[direction]; // 달팽이를 채울 행 인덱스
+                y += dy[direction]; // 달팽이를 채울 열 인덱스
 
-                if (check(n, nx, ny)) { // 달팽이를 채울 좌표가 삼각형 범위 내의 좌표일 경우
-                    triangle[nx][ny] = snailOrder;
-
-                    x = nx;
-                    y = ny;
-                    snailOrder += 1;
-                }
+                triangle[x][y] = snailOrder++;
             }
 
             moveNum -= 1;
@@ -99,9 +85,7 @@ class PRO68645 {
         for (int r = 0; r < n; r++) {
             for (int c = 0; c < n; c++) {
                 if (triangle[r][c] != 0) {
-                    answer[index] = triangle[r][c];
-
-                    index += 1;
+                    answer[index++] = triangle[r][c];
                 }
             }
         }
