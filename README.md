@@ -162,6 +162,8 @@
 | Day 143 <br/> (2025.01.21.화) | [BOJ 5904. Moo 게임](https://www.acmicpc.net/problem/5904) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❌ | - |
 | Day 144 <br/> (2025.01.23.목) | [BOJ 5549. 행성 탐사](https://www.acmicpc.net/problem/5549) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ✅ | - |
 | Day 145 <br/> (2025.02.04.화) | [PRO 68645. 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | 2️⃣ | ✅ | ❌ | ❌ | - |
+| Day 146 <br/> (2025.02.06.목) | [PRO 12927. 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 3️⃣ | ✅ | ❌ | ✅ | - |
+
 
 <br/>
 
