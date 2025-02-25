@@ -166,6 +166,7 @@
 | Day 147 <br/> (2025.02.13.목) | [BOJ 11000. 강의실 배정](https://www.acmicpc.net/problem/11000) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❔ | - |
 | Day 148 <br/> (2025.02.18.화) | [BOJ 17352. 여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❌ | - |
 | Day 149 <br/> (2025.02.20.목) | [PRO 131704. 택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | 2️⃣ | ❌ | ❌ | ✅ | - |
+| Day 150 <br/> (2025.02.25.화) | [PRO 12971. 스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | 3️⃣ | ✅ | ❌ | ❌ | - |
 
 <br/>
 
