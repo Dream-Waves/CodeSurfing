@@ -168,6 +168,7 @@
 | Day 149 <br/> (2025.02.20.목) | [PRO 131704. 택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | 2️⃣ | ❌ | ❌ | ✅ | - |
 | Day 150 <br/> (2025.02.25.화) | [PRO 12971. 스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | 3️⃣ | ✅ | ❌ | ❌ | - |
 | Day 151 <br/> (2025.03.04.화) | [BOJ 16398. 행성 연결](https://www.acmicpc.net/problem/16398) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
+| Day 152 <br/> (2025.03.11.화) | [BOJ 1806. 부분합](https://www.acmicpc.net/problem/1806) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 
 <br/>
 
