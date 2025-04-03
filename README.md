@@ -170,6 +170,7 @@
 | Day 151 <br/> (2025.03.04.화) | [BOJ 16398. 행성 연결](https://www.acmicpc.net/problem/16398) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 | Day 152 <br/> (2025.03.11.화) | [BOJ 1806. 부분합](https://www.acmicpc.net/problem/1806) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 | Day 153 <br/> (2025.03.25.화) | [BOJ 3078. 좋은 친구](https://www.acmicpc.net/problem/3078) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ☑️ | ❌ | ❌ | - |
+| Day 154 <br/> (2025.04.03.목) | [BOJ 21924. 도시 건설](https://www.acmicpc.net/problem/21924) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 
 <br/>
 
