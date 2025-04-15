@@ -84,9 +84,9 @@
 */
 
 
-// 메모리 : 67300KB
-// 시간 : 732ms
-// 코드 길이 : 3090B
+// 메모리 : 67236KB
+// 시간 : 744ms
+// 코드 길이 : 3089B
 // 정답
 
 package C0012S;
@@ -121,10 +121,10 @@ public class BOJ22942 {
             Circle nowCircle = circleList.get(n); // 현재 검사하고 있는 원
             Circle nearCircle = stack.peek(); // 가장 안 쪽에 존재하는 원
 
-            if (nowCircle.end < nearCircle.end) { // 현재 원이 가장 안 쪽에 존재하는 원을 포함할 경우
+            if (nowCircle.end < nearCircle.end) { // 가장 안 쪽에 존재하는 원이 현재 원을 포함할 경우
                 stack.push(nowCircle);
             }
-            else if (nowCircle.start > nearCircle.end) { // 현재 원이 가장 안 쪽에 존재하는 원을 포함하지 않고, 만나지 않을 경우 (현재 원이 가장 안 쪽에 존재하는 원의 외부에 있을 경우)
+            else if (nowCircle.start > nearCircle.end) { // 가장 안 쪽에 존재하는 원이 현재 원을 포함하지 않고, 만나지 않을 경우 (현재 원이 가장 안 쪽에 존재하는 원의 외부에 있을 경우)
                 while (!stack.isEmpty() && (nowCircle.start > stack.peek().end)) { // 스택이 비지 않았고, 현재 원이 스택에 존재하는 원의 외부에 있을 경우
                     stack.pop();
                 }
