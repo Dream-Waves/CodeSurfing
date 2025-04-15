@@ -173,6 +173,7 @@
 | Day 154 <br/> (2025.04.03.목) | [BOJ 21924. 도시 건설](https://www.acmicpc.net/problem/21924) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 | Day 155 <br/> (2025.04.08.화) | [PRO 389479. 서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | 2️⃣ | ❌ | ✅ | ✅ | - |
 | Day 156 <br/> (2025.04.10.목) | [PRO 67258. 보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | 3️⃣ | ❌ | ❌ | ✅ | - |
+| Day 157 <br/> (2025.04.15.화) | [BOJ 22942. 데이터 체커](https://www.acmicpc.net/problem/22942) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❔ | - |
 
 <br/>
 
