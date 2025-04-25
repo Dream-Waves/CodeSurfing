@@ -176,6 +176,7 @@
 | Day 157 <br/> (2025.04.15.화) | [BOJ 22942. 데이터 체커](https://www.acmicpc.net/problem/22942) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❔ | - |
 | Day 158 <br/> (2025.04.17.목) | [BOJ 17073. 나무 위의 빗물](https://www.acmicpc.net/problem/17073) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ✅ | ❌ | - |
 | Day 159 <br/> (2025.04.22.화) | [BOJ 16174. 점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | - |
+| Day 160 <br/> (2025.04.24.목) | [BOJ 16936. 나3곱2](https://www.acmicpc.net/problem/16936) | ![Silver1](https://static.solved.ac/tier_small/11.svg) | ❌ | ❔ | ✅ | - |
 
 <br/>
 
