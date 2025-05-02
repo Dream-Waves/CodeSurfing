@@ -178,6 +178,7 @@
 | Day 159 <br/> (2025.04.22.화) | [BOJ 16174. 점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) | ![Silver1](https://static.solved.ac/tier_small/10.svg) | ❌ | ✅ | ❌ | - |
 | Day 160 <br/> (2025.04.24.목) | [BOJ 16936. 나3곱2](https://www.acmicpc.net/problem/16936) | ![Silver1](https://static.solved.ac/tier_small/11.svg) | ❌ | ❔ | ✅ | - |
 | Day 161 <br/> (2025.04.29.화) | [PRO 67259. 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | 3️⃣ | ✔️ | ❔ | ❔ | - |
+| Day 162 <br/> (2025.05.01.목) | [PRO 150369. 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | 2️⃣ | ❌ | ❌ | ☑️ | - |
 
 <br/>
 
