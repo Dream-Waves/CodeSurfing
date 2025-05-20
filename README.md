@@ -182,6 +182,7 @@
 | Day 163 <br/> (2025.05.08.목) | [BOJ 7662. 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ☑️ | ❔ | ❌ | - |
 | Day 164 <br/> (2025.05.13.화) | [BOJ 19598. 최소 회의실 개수](https://www.acmicpc.net/problem/19598) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ✅ | - |
 | Day 165 <br/> (2025.05.15.목) | [BOJ 1967. 트리의 지름](https://www.acmicpc.net/problem/1967) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ✅ | ☑️ | - |
+| Day 166 <br/> (2025.05.20.화) | [BOJ 20164. 홀수 홀릭 호석](https://www.acmicpc.net/problem/20164) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ✅ | - |
 
 
 <br/>
