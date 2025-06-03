@@ -186,6 +186,7 @@
 | Day 167 <br/> (2025.05.22.목) | [PRO 86971. 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 2️⃣ | ❌ | ❌ | ❔ | - |
 | Day 168 <br/> (2025.05.27.화) | [PRO 154540. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | 2️⃣ | ❌ | ✅ | ✅ | - |
 | Day 169 <br/> (2025.05.29.목) | [BOJ 2580. 스도쿠](https://www.acmicpc.net/problem/2580) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
+| Day 170 <br/> (2025.06.03.화) | [BOJ 2302. 극장 좌석](https://www.acmicpc.net/problem/2302) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ☑️ | - |
 
 <br/>
 
