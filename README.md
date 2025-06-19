@@ -189,7 +189,8 @@
 | Day 170 <br/> (2025.06.03.화) | [BOJ 2302. 극장 좌석](https://www.acmicpc.net/problem/2302) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ☑️ | - |
 | Day 171 <br/> (2025.06.05.목) | [BOJ 3584. 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ❌ | ✅ | - |
 | Day 172 <br/> (2025.06.10.화) | [BOJ 4485. 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ✅ | ✅ | - |
-
+| Day 173 <br/> (2025.06.17.화) | [PRO 49189. 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |3️⃣ | ❌ | ✅ | ❔ | - |
+| Day 174 <br/> (2025.06.19.목) | [PRO 135807. 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | 2️⃣ | ❌ | ✅ | ✅ | - |
 
 <br/>
 
