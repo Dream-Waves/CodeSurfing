@@ -194,6 +194,7 @@
 | Day 175 <br/> (2025.06.24.화) | [BOJ 2374. 같은 수로 만들기](https://www.acmicpc.net/problem/2374) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ✅ | ❔ | - |
 | Day 176 <br/> (2025.06.26.목) | [BOJ 3055. 탈출](https://www.acmicpc.net/problem/3055) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ❔ | ✅ | - |
 | Day 177 <br/> (2025.07.01.화) | [BOJ 22251. 빌런 호석](https://www.acmicpc.net/problem/22251) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❔ | ✅ | - |
+| Day 178 <br/> (2025.07.03.목) | [BOJ 1563. 개근상](https://www.acmicpc.net/problem/1563) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ❌ | ❔ | - |
 
 <br/>
 
