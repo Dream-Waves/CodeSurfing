@@ -184,7 +184,7 @@
 | Day 165 <br/> (2025.05.15.목) | [BOJ 1967. 트리의 지름](https://www.acmicpc.net/problem/1967) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✔️ | ✅ | ☑️ | - |
 | Day 166 <br/> (2025.05.20.화) | [BOJ 20164. 홀수 홀릭 호석](https://www.acmicpc.net/problem/20164) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ✅ | - |
 | Day 167 <br/> (2025.05.22.목) | [PRO 86971. 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 2️⃣ | ❌ | ❌ | ❔ | - |
-| Day 168 <br/> (2025.05.27.화) | [PRO 154540. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | 2️⃣ | ❌ | ✅ | ✅ | - |
+| Day 168 <br/> (2025.05.27.화) | [PRO 154540. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | 2️⃣ | ✔️ | ✅ | ✅ | - |
 | Day 169 <br/> (2025.05.29.목) | [BOJ 2580. 스도쿠](https://www.acmicpc.net/problem/2580) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 | Day 170 <br/> (2025.06.03.화) | [BOJ 2302. 극장 좌석](https://www.acmicpc.net/problem/2302) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ☑️ | - |
 | Day 171 <br/> (2025.06.05.목) | [BOJ 3584. 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ❌ | ✅ | - |
