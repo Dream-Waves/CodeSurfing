@@ -198,6 +198,7 @@
 | Day 179 <br/> (2025.07.08.화) | [PRO 77485. 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | 2️⃣ | ✅ | ❌ | ❌ | - |
 | Day 180 <br/> (2025.07.15.화) | [PRO 81302. 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 2️⃣ | ❌ | ❌ | ✅ | - |
 | Day 181 <br/> (2025.07.17.목) | [PRO 388352. 비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | 2️⃣ | ✔️ | ❌ | ✅ | - |
+| Day 182 <br/> (2025.07.29.화) | [PRO 92342. 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | 2️⃣ | ✅ | ❌ |  | - |
 
 <br/>
 
