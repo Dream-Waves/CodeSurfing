@@ -202,6 +202,7 @@
 | Day 183 <br/> (2025.08.05.화) | [BOJ 17396. 백도어](https://www.acmicpc.net/problem/17396) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ❔ | - |
 | Day 184 <br/> (2025.08.07.목) | [BOJ 6497. 전력난](https://www.acmicpc.net/problem/6497) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ❌ | ❔ | - |
 | Day 185 <br/> (2025.08.12.화) | [BOJ 27980. 문자열 게임](https://www.acmicpc.net/problem/27980) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
+| Day 186 <br/> (2025.08.14.목) | [BOJ 22856. 트리 순회](https://www.acmicpc.net/problem/22856) | ![Gold4](https://static.solved.ac/tier_small/12.svg) |  | ❌ | ☑️ | - |
 
 <br/>
 
