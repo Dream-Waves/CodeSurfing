@@ -204,7 +204,7 @@
 | Day 185 <br/> (2025.08.12.화) | [BOJ 27980. 문자열 게임](https://www.acmicpc.net/problem/27980) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
 | Day 186 <br/> (2025.08.14.목) | [BOJ 22856. 트리 순회](https://www.acmicpc.net/problem/22856) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✔️ | ❌ | ☑️ | - |
 | Day 187 <br/> (2025.08.21.목) | [PRO 142085. 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 2️⃣ | ✔️ | ❌ | ✅ | - |
-| Day 188 <br/> (2025.09.02.화) | [PRO 64062. 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | 3️⃣ | ❌ | ❌ | ❌ | - |
+| Day 188 <br/> (2025.09.02.화) | [PRO 64062. 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | 3️⃣ | ✔️ | ❌ | ❌ | - |
 
 <br/>
 
