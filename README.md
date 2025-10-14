@@ -206,6 +206,8 @@
 | Day 187 <br/> (2025.08.21.목) | [PRO 142085. 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 2️⃣ | ✔️ | ❌ | ✅ | - |
 | Day 188 <br/> (2025.09.02.화) | [PRO 64062. 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | 3️⃣ | ✔️ | ❌ | ❌ | - |
 | Day 189 <br/> (2025.09.11.목) | [BOJ 2668. 숫자고르기](https://www.acmicpc.net/problem/2668) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✔️ | ❌ | ❌ | - |
+| Day 190 <br/> (2025.10.14.화) | [BOJ 21922. 학부 연구생 민상](https://www.acmicpc.net/problem/21922) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ❔ | - |
+
 
 <br/>
 
