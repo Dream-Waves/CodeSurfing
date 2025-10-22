@@ -208,6 +208,7 @@
 | Day 189 <br/> (2025.09.11.목) | [BOJ 2668. 숫자고르기](https://www.acmicpc.net/problem/2668) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✔️ | ❌ | ❌ | - |
 | Day 190 <br/> (2025.10.14.화) | [BOJ 21922. 학부 연구생 민상](https://www.acmicpc.net/problem/21922) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ❔ | - |
 | Day 191 <br/> (2025.10.16.목) | [PRO 42861. 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | 3️⃣ | ❌ | ❌ | ❌ | - |
+| Day 192 <br/> (2025.10.21.화) | [BOJ 1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❌ | - |
 
 <br/>
 
