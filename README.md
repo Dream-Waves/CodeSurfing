@@ -211,6 +211,7 @@
 | Day 192 <br/> (2025.10.21.화) | [BOJ 1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ❌ | - |
 | Day 193 <br/> (2025.10.28.화) | [BOJ 11509. 풍선 맞추기](https://www.acmicpc.net/problem/11509) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
 | Day 194 <br/> (2025.11.13.목) | [BOJ 2469. 사다리 타기](https://www.acmicpc.net/problem/2469) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
+| Day 195 <br/> (2025.11.18.화) | [PRO 42579. 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 3️⃣ | ✅ | ❌ | ❌ | - |
 
 <br/>
 
