@@ -214,6 +214,7 @@
 | Day 195 <br/> (2025.11.18.화) | [PRO 42579. 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 3️⃣ | ✅ | ❌ | ❌ | - |
 | Day 196 <br/> (2025.11.25.화) | [PRO 64064. 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | 3️⃣ | ✅ | ❌ | ❔ | - |
 | Day 197 <br/> (2025.11.27.목) | [BOJ 18112. 이진수 게임](https://www.acmicpc.net/problem/18112) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ☑️ | - |
+| Day 198 <br/> (2025.12.02.화) | [BOJ 1253. 좋다](https://www.acmicpc.net/problem/1253) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 
 <br/>
 
