@@ -216,6 +216,7 @@
 | Day 197 <br/> (2025.11.27.목) | [BOJ 18112. 이진수 게임](https://www.acmicpc.net/problem/18112) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ❌ | ❌ | ☑️ | - |
 | Day 198 <br/> (2025.12.02.화) | [BOJ 1253. 좋다](https://www.acmicpc.net/problem/1253) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 | Day 199 <br/> (2025.12.04.목) | [BOJ 11437. LCA](https://www.acmicpc.net/problem/11437) | ![Gold4](https://static.solved.ac/tier_small/13.svg) | ❌ | ❌ | ✅ | - |
+| Day 200 <br/> (2025.12.11.목) | [PRO 77486. 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | 3️⃣ | ❌ | ❌ | ❔ | - |
 
 <br/>
 
