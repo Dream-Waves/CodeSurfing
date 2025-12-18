@@ -218,6 +218,7 @@
 | Day 199 <br/> (2025.12.04.목) | [BOJ 11437. LCA](https://www.acmicpc.net/problem/11437) | ![Gold3](https://static.solved.ac/tier_small/13.svg) | ❌ | ❌ | ✅ | - |
 | Day 200 <br/> (2025.12.11.목) | [PRO 77486. 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | 3️⃣ | ❌ | ❌ | ❔ | - |
 | Day 201 <br/> (2025.12.16.화) | [BOJ 1322. X와 K](https://www.acmicpc.net/problem/1322) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ☑️ | ❌ | ☑️ | - |
+| Day 202 <br/> (2025.12.18.목) | [BOJ 13701. 중복 제거](https://www.acmicpc.net/problem/13701) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 
 <br/>
 
