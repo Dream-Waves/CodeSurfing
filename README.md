@@ -221,6 +221,7 @@
 | Day 202 <br/> (2025.12.18.목) | [BOJ 13701. 중복 제거](https://www.acmicpc.net/problem/13701) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ❌ | - |
 | Day 203 <br/> (2025.12.23.화) | [PRO 17678. 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | 3️⃣ | ❌ | ❌ | ❔ | - |
 | Day 204 <br/> (2025.12.25.목) | [PRO 72413. 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | 3️⃣ | ✅  | ❌ | ✅ | - |
+| Day 205 <br/> (2025.12.30.화) | [BOJ 20165. 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ |  |  | - |
 
 <br/>
 
