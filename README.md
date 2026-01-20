@@ -223,7 +223,7 @@
 | Day 204 <br/> (2025.12.25.목) | [PRO 72413. 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | 3️⃣ | ✅  | ❌ | ✅ | - |
 | Day 205 <br/> (2025.12.30.화) | [BOJ 20165. 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) | ![Gold5](https://static.solved.ac/tier_small/11.svg) | ✅ | ❌ | ✅ | - |
 | Day 206 <br/> (2026.01.06.화) | [BOJ 18116. 로봇 조립](https://www.acmicpc.net/problem/18116) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ✅ | ❌ | ☑️ | - |
-| Day 207 <br/> (2026.01.13.화) | [PRO 81303. 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | 3️⃣ | ✅  | ❌ | ✅  | - |
+| Day 207 <br/> (2026.01.13.화) | [PRO 81303. 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | 3️⃣ | ✅ | ❌ | ✅ | - |
 
 <br/>
 
