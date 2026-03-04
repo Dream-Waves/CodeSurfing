@@ -54,9 +54,9 @@
 */
 
 
-// 메모리 : 17664KB
-// 시간 : 1416ms
-// 코드 길이 : 2334B
+// 메모리 : 18268KB
+// 시간 : 1412ms
+// 코드 길이 : 2350B
 // 정답
 
 package C0012S;
@@ -86,7 +86,7 @@ public class BOJ2179 {
     }
 
     public static void find() { // 접두사의 길이가 최대일 때를 구해 문제에서 원하는 단어 S와 단어 T를 구하는 메서드
-        int maxPrevLength = 0; // 접두사 길이의 최댓값
+        int maxPrevLength = Integer.MIN_VALUE; // 접두사 길이의 최댓값
 
         for (int n = 0; n < N - 1; n++) {
             for (int w = n + 1; w < N; w++) {
