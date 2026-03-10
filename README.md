@@ -231,6 +231,7 @@
 | Day 212 <br/> (2026.02.24.화) | [PRO 340211. 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | 2️⃣ | ❌ | ❌ | ☑️ | - |
 | Day 213 <br/> (2026.02.26.목) | [BOJ 2138. 전구와 스위치](https://www.acmicpc.net/problem/2138) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ☑️ | ❌ | ☑️ | - |
 | Day 214 <br/> (2026.03.03.화) | [BOJ 2179. 비슷한 단어](https://www.acmicpc.net/problem/2179) | ![Gold3](https://static.solved.ac/tier_small/13.svg) | ✅ | ❌ | ✅ | - |
+| Day 215 <br/> (2026.03.10.화) | [BOJ 14267. 회사 문화 1](https://www.acmicpc.net/problem/14267) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ❌ | ✅ | - |
 
 <br/>
 
