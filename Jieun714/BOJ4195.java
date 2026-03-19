@@ -40,7 +40,6 @@ public class BOJ4195 {
         if(x != y) { //서로 다른 집합일 때만 합침
             parent[y] = x;
             depth[x] += depth[y]; //네트워크 크기 합치기
-            depth[y] = 1;
         }
     }
 
